@@ -58,6 +58,12 @@ public interface UserMapper {
     void test4();
     void test5();
 
+    void test11();
+    void test22();
+    void test33();
+    void test44();
+    void test55();
+
     /*
         根据id查询用户信息
      */
