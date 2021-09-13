@@ -52,6 +52,12 @@ public interface UserMapper {
     List<Resource> findResourceByRoleId(List<Integer> ids);
     List<Resource> findResourceByRoleId2(List<Integer> ids);
 
+    void test11();
+    void test22();
+    void test33();
+    void test44();
+    void test55();
+    
     /*
         根据id查询用户信息
      */
